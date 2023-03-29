@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Improve Vocabulary</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Welcome">Hello to Improve Your vocabulary app </string>
+    <string name="Start">Start </string>
+    <string name="Welcome3">Hello to Improve Your vocabulary app </string>
+    <string name="Welcome4">Hello to Improve Your vocabulary app </string>
+<string-array name="your_section">
+    <item> Unit one</item>
+    <item> Unit two</item>
+    <item> Unit three</item>
+    <item> Unit four</item>
+    <item> Unit five</item>
+    <item> Unit Six</item>
+
+</string-array>
+</resources>
